@@ -1,8 +1,8 @@
 ### Hi there 👋
 
 <h2>📝 About Me</h2>
--15 Years old Boy
--Beginner Dev
+
+<h3> 15 Years old boy and I'm a Beginner Developer.</h3>
 
 ### ⌨️ Languages and Tools:
 <img height="32px" align="left" src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg">
