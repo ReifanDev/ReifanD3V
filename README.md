@@ -2,10 +2,7 @@
 
 <h2>📝 About Me</h2>
 
-<h3> 15 Years old boy and I'm a Beginner Developer.</h3>
-<h4>Https://Reifan.xyz</h4>
-<h4>Check Out My Portfolio</h4>
-
+<h3> 15 Years old</h3>
 
 ### ⌨️ Languages and Tools:
 <img height="32px" align="left" src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg">
